@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FluentUninstaller.CLI/FluentUninstaller.CLI.csproj" />
+    <Project Path="src/FluentUninstaller.Core/FluentUninstaller.Core.csproj" />
+    <Project Path="src/FluentUninstaller.UI/FluentUninstaller.UI.csproj" />
+    <Project Path="src/FluentUninstaller.Setup/FluentUninstaller.Setup.csproj" />
+  </Folder>
+</Solution>
